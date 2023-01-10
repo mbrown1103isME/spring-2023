@@ -125,7 +125,7 @@ Brief introductions.
 
 * [colab.md](colab.md)
 
-## In-class exercise -- Earthquakes
+## In-class exercise -- earthquakes
 
 * [my notebook](https://colab.research.google.com/drive/1nT2yKBAJ-rm7MysxeNVe74Uao0G2a4l3)
 
