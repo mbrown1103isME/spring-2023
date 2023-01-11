@@ -9,32 +9,48 @@
 
 ## links
 
-* class notes: https://github.com/ds5110/spring-2023
+* repo for class notes: https://github.com/ds5110/spring-2023
 * polleverywhere: https://PollEv.com/pbogden
-* [scratch notebook](https://drive.google.com/drive/folders/1GW57_50Mx0ogFLIXzUaw0NFSSoKQYvIO) -- shared
+* [scratch notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG) -- shared
 
-## Reading (for next week)
+## Reading and exercises
 
-* Intro to statistical learning
-  * Ch 1: [ISLR2](https://www.statlearning.com/) -- Background and notation
+In preparation for class next week...
+
+* ISL
+  * Ch 1: [ISL](https://www.statlearning.com/) -- Background and notation
     * Bring any questions if you have on this chapter to class.
-  * Ch 2: [ISLR2](https://www.statlearning.com/) -- Intro/overview
+  * Ch 2: [ISL](https://www.statlearning.com/) -- Intro/overview
     * We'll review Section 2.1 in class, so bring any questions you have on this section.
     * We'll implement some of the material in Python.
     * Skim Section 2.2 -- the material is important and we'll get to it at some point.
     * We won't cover Sections 2.3 and 2.4, which depend on R.
+* PDS -- matplotlib
+  * We'll start working with seaborn and matplotlib next week to visualize and work with tidy data.
+  * PDS github repo: https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/
+  * Read the following notebooks, and experiment by running the code in Colab...
+    * 04.00-Introduction-To-Matplotlib.ipynb
+    * 04.01-Simple-Line-Plots.ipynb
+    * 04.02-Simple-Scatter-Plots.ipynb
+  * These notebooks use numpy -- make sure you understand what's going on.
+    * If numpy is new to you, then look at relevant notebooks in Chapter 2 of PDS
 * [Seaborn data structures](https://seaborn.pydata.org/tutorial/data_structure.html) -- pydata.org
-  * This section in the Seaborn documentation describes "tidy" data -- this reading is an optional look ahead.
-  * We'll start working with seaborn and matplotlib next week to visualize tidy data.
+  * This section in the Seaborn documentation describes "tidy" data
+  * Experiment with Seaborn by running the code in Colab.
+  * If this is new to you, then look at the scratch notebook (link above)
+    * I've set up a notebook that runs some code.
+    * As I mentioned in the 3rd cell, seaborn uses Pandas DataFrames by default
+    * If this is new to you, then look at the introductory notebooks in Chapter 3 of PDS
 * [How to ask a good question](https://stackoverflow.com/help/how-to-ask) -- stackoverflow.com
   * It's important to know how to ask a good technical question.
   * Stackoverflow can be a great resource for answering good questions and debugging, provided it's used well.
-  * Be careful about how you use google.
+  * Be careful about how you use google and stackoverflow. And be super careful about random blogs.
 * For awareness...
-  * [Ch 12: R4DS](https://r4ds.had.co.nz/tidy-data.html) -- Tidy data (the R perspective)
+  * [Ch 12: R4DS](https://r4ds.had.co.nz/tidy-data.html)
+    * "Tidy data" is a adopted from the R community
   * [Introduction to licenses](https://observablehq.com/@observablehq/licenses) -- observablehq.com
     * Attribution and licenses are important when using published work.
-    * [Northeastern's academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/)
+    * Remember [Northeastern's academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/)
     * Copy and paste could have legal implications that extend beyond academic integrity (unlikely for us right now).
 
 ## Introductions
@@ -52,7 +68,6 @@ Brief introductions.
 ## Projects
 
 * [stinky2](https://ds5110.github.io/stinky2/)
-* [conservation](https://github.com/ds5110/project-conservation)
 
 ## Github intro
 
@@ -68,7 +83,7 @@ Brief introductions.
   * [Tiobe index](https://www.tiobe.com/tiobe-index/)
 * R perspective
   * Data science overview -- [Hadley Wickham's perspective](https://r4ds.had.co.nz/explore-intro.html)
-  * [ISLR2 online course](https://www.statlearning.com/online-course)
+  * [ISL online course](https://www.statlearning.com/online-course)
   * [Lecture 1](https://youtu.be/5N9V07EIfIg) -- youtube
 * Python perspective
   * [NumPy.org](https://numpy.org/)
@@ -87,10 +102,11 @@ Brief introductions.
 * editor -- vscode, or others (e.g., vim), but not atom as it was deprecated over the summer:-(
   * [vim - vscode](https://www.cs.cmu.edu/~07131/f20/topics/readings/week-4/week-4-vim-vscode.pdf) -- cmu.edu
   * [vscode & vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) -- visualstudio.com
-* REPL -- make sure you can run REPL (read-eval-print-loop) from the command line
+* REPL -- make sure you can run code from the command line (REPL = read-eval-print-loop)
+  * PDS discussed this, as does McKinney
 * Installation
-  * PDS has recommendations for using miniconda
-  * McKinney's boook as well: [Installation](https://wesmckinney.com/book/preliminaries.html#installation_and_setup)
+  * PDS has recommendations for using miniconda in Chapter 1 of the 2nd edition
+  * McKinney's book as well: [Installation](https://wesmckinney.com/book/preliminaries.html#installation_and_setup)
     * Section 1.3: Essential Python Libraries
     * Section 1.4: Installation and setup
 
@@ -125,7 +141,7 @@ Brief introductions.
 
 * [colab.md](colab.md)
 
-## In-class exercise -- earthquakes
+## In-class exercise -- Earthquakes
 
 * [my notebook](https://colab.research.google.com/drive/1nT2yKBAJ-rm7MysxeNVe74Uao0G2a4l3)
 
