@@ -36,10 +36,21 @@ In preparation for class next week...
     * If numpy is new to you, then look at relevant notebooks in Chapter 2 of PDS
 * [Seaborn data structures](https://seaborn.pydata.org/tutorial/data_structure.html) -- pydata.org
   * This section in the Seaborn documentation describes "tidy" data
-  * Experiment with Seaborn by running the code in Colab.
+  * Experiment with Seaborn by running the following code (from the seaborn documentation) in Colab.
+  ```
+  # Ref: https://seaborn.pydata.org/tutorial/data_structure.html
+  import seaborn as sns
+
+  flights = sns.load_dataset("flights")
+  flights.head()
+  ```
+  * If you run the code above in one cell, then run the next line in another cell to produce the plot
+  ```
+  sns.relplot(data=flights, x="year", y="passengers", hue="month", kind="line");
+  ```
   * If this is new to you, then look at the scratch notebook (link above)
     * I've set up a notebook that runs some code.
-    * As I mentioned in the 3rd cell, seaborn uses Pandas DataFrames by default
+    * Seaborn uses Pandas DataFrames by default.
     * If this is new to you, then look at the introductory notebooks in Chapter 3 of PDS
 * [How to ask a good question](https://stackoverflow.com/help/how-to-ask) -- stackoverflow.com
   * It's important to know how to ask a good technical question.

@@ -72,7 +72,7 @@ Reproduce the three graphs in Figure 1.1 of ISL
 
 ## Git intro
 
-The format for assignment submissions.
+The format for assignment submissions: [git-intro](https://github.com/ds5110/git-intro)
 
 ## Quakes
 
