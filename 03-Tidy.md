@@ -16,7 +16,7 @@
 * [02-quakes-exercises.ipynb](https://colab.research.google.com/drive/1O91p2-FOs4VnmZmXFHbqyzq3q9xGIIxT)
   * histograms of earthquakes -- last month, all sizes
   * includes links to USGS API documentation and GeoJSON data model and data dictionary
-* [03-central-limit-exercises.ipyn](https://colab.research.google.com/drive/1WWon45UuwOUAj6hwq-xSzUCazf_uIOOZ)
+* [03-central-limit-exercises.ipynb](https://colab.research.google.com/drive/1WWon45UuwOUAj6hwq-xSzUCazf_uIOOZ)
 * [03-geopandas-exercises.ipynb](https://colab.research.google.com/drive/1Afw2dOJC_i8EreT2Fp8AtjO8cn1nGZ83)
 * [03-observable-quakes-exercises.ipynb](https://colab.research.google.com/drive/1z_6ZDQ1zP5fARR1IFMMGSNbcC24xMz9s)
 * polleverywhere: https://PollEv.com/pbogden
