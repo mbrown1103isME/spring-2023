@@ -19,6 +19,8 @@
 * [03-central-limit-exercises.ipyn](https://colab.research.google.com/drive/1WWon45UuwOUAj6hwq-xSzUCazf_uIOOZ)
 * [03-geopandas-exercises.ipynb](https://colab.research.google.com/drive/1Afw2dOJC_i8EreT2Fp8AtjO8cn1nGZ83)
 * [03-observable-quakes-exercises.ipynb](https://colab.research.google.com/drive/1z_6ZDQ1zP5fARR1IFMMGSNbcC24xMz9s)
+* polleverywhere: https://PollEv.com/pbogden
+* [scratch notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG) -- shared
 
 ## Reading -- for next week
 
