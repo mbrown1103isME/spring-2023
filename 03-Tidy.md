@@ -24,6 +24,19 @@
 
 ## Reading -- for next week
 
+* [Interacting with databases](https://wesmckinney.com/book/accessing-data.html#io_databases) -- wesmkinney.com
+  * The entire chapter is good: "Data Loading, Storage and File Formats" -- It introduces a variety of data formats.
+  * It includes a discussion of JSON data (we used GeoJSON, a subset of JSON, when looking at earthquake data)
+  * It also discusses web APIs (we get earthquake data from the USGS API)
+  * The specific link above provides a brief introduction to SQL and relational databases.
+  * Next week we'll be using sqlite3 -- McKinney provides example code.
+  * If you're new to SQL and/or sqlite3, then try implementing the code in Colab -- experiment with it.
+* [Comparison w/SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)
+  * Pandas has a lot of built-in methods that perform the same functions as SQL.
+  * This part of the pandas reference documentation makes a comparison.
+* If you're entirely new to SQL, then try out the [SQL tutorial](https://www.w3schools.com/sql/) at w3schools.com
+
+
 ## hw1
 
 * Due Sunday
