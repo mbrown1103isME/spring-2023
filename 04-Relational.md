@@ -10,7 +10,7 @@
 
 ## Assignment
 
-HW #2 due 9 Jan -- See Canvas
+HW #2 due 9 Feb -- See Canvas
 
 ## Reading (for next week)
 
