@@ -71,3 +71,9 @@ List the sids for students who are enrolled
 
 * List all the student info for enrolled students
 
+## Exercise s4 -- join
+
+* List info for all the CS majors, including info on any classes in which they're enrolled.
+* Answer this one using a JOIN
+* hint: [LEFT JOIN](https://www.w3schools.com/sql/sql_join_left.asp) -- w3schools.com
+
