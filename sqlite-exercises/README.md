@@ -66,3 +66,8 @@ List all the table names in the database
 ## Exercise s2 -- unique elements
 
 List the sids for students who are enrolled
+
+## Exercise s3 -- student info for all enrolled students
+
+* List all the student info for enrolled students
+
