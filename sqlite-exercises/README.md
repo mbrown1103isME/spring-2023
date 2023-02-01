@@ -77,3 +77,6 @@ List the sids for students who are enrolled
 * Answer this one using a JOIN
 * hint: [LEFT JOIN](https://www.w3schools.com/sql/sql_join_left.asp) -- w3schools.com
 
+## Exercise s5 -- debug
+
+Debug `src/s5.py` and indicate what you did to fix the code.
