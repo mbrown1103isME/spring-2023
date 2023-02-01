@@ -80,3 +80,8 @@ List the sids for students who are enrolled
 ## Exercise s5 -- debug
 
 Debug `src/s5.py` and indicate what you did to fix the code.
+
+## Exercise s6 -- pandas
+
+Using pandas, read the students database and create an in-memory database with the same data.
+Print the tables to verify the result.
