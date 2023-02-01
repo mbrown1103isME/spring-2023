@@ -59,6 +59,10 @@ make data/students.db
 make clean
 ```
 
-## Exercise s1 -- TBD
+## Exercise s1 -- table names
 
-...
+List all the table names in the database
+
+## Exercise s2 -- unique elements
+
+List the sids for students who are enrolled
