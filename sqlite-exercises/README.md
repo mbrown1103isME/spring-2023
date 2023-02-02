@@ -59,6 +59,29 @@ make data/students.db
 make clean
 ```
 
-## Exercise s1 -- TBD
+# Reproducability 
+- Note: Questions 1-4 are run in one file, so `make s0` will run all the asnwers for questions 1-4
 
-...
+## Exercise s1 -- table names
+
+`make s0`
+
+## Exercise s2 -- unique elements
+
+`make s0`
+
+## Exercise s3 -- student info for all enrolled students
+
+`make s0`
+
+## Exercise s4 -- join
+
+`make s0`
+
+## Exercise s5 -- debug
+
+`make s5 `
+
+## Exercise s6 -- pandas
+
+`make s6`
