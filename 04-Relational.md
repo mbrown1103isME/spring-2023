@@ -14,7 +14,7 @@ HW #2 due 9 Feb -- See Canvas
 
 ## Reading (for next week)
 
-* ISLR2 -- Chapter 3: Linear regression
+* ISL -- Chapter 3: Linear regression
   * Sections 3.1-3.4 only.
 * [Chapter 3 slides](https://hastie.su.domains/ISLR2/Slides/Ch3_Linear_Regression.pdf)
   * Use the slides as a study guide.
